@@ -1,0 +1,6 @@
+{
+  "name": "Kage Temple — ThreeUI 3D Experience",
+  "description": "An interactive Kyoto mountain temple night-walk experience powered by Three.js and ThreeUI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

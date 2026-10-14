@@ -1,0 +1,1 @@
+export const NOCTURNE_TITLES: any; export const NOCTURNE_VARIANTS: any; export function buildNocturneDocument(...args: any[]): any; export type NocturneVariant = any;
